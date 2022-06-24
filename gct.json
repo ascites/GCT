@@ -3,10 +3,10 @@
   "description": "A seaside romcom with too many heroines!",
   "artist": "Seo Koji",
   "author": "Seo Koji",
-  "cover": "https://pbs.twimg.com/media/FVzuAtnaMAA0X_5?format=jpg",
+  "cover": "https://i.stack.imgur.com/u8GiN.jpg",
   "chapters": {
     "50": {
-      "title": "",
+      "title": "敵情視察",
       "volume": "",
       "last_updated": "1656000000",
       "groups": {
@@ -14,7 +14,7 @@
       }
     },
     "51": {
-      "title": "51",
+      "title": "本当の実力",
       "volume": "",
       "last_updated": "1656000000",
       "groups": {
@@ -22,7 +22,7 @@
       }
     },
     "52": {
-      "title": "52",
+      "title": "反撃の一手",
       "volume": "",
       "last_updated": "1656000000",
       "groups": {
@@ -30,7 +30,7 @@
       }
     },
     "53": {
-      "title": "53",
+      "title": "流星と莉々歌",
       "volume": "",
       "last_updated": "1656000000",
       "groups": {
@@ -38,7 +38,7 @@
       }
     },
     "54": {
-      "title": "54",
+      "title": "5人の行き先",
       "volume": "",
       "last_updated": "1656000000",
       "groups": {
@@ -46,7 +46,7 @@
       }
     },
     "55": {
-      "title": "55",
+      "title": "男女11人共同生活",
       "volume": "",
       "last_updated": "1656000000",
       "groups": {
@@ -54,7 +54,7 @@
       }
     },
     "56": {
-      "title": "56",
+      "title": "莉々歌の相談",
       "volume": "",
       "last_updated": "1656000000",
       "groups": {
@@ -62,7 +62,7 @@
       }
     },
     "57": {
-      "title": "57",
+      "title": "お人好し",
       "volume": "",
       "last_updated": "1656000000",
       "groups": {
@@ -70,7 +70,7 @@
       }
     },
     "58": {
-      "title": "58",
+      "title": "ペアチケット",
       "volume": "",
       "last_updated": "1656000000",
       "groups": {
@@ -78,7 +78,7 @@
       }
     },
     "59": {
-      "title": "59",
+      "title": "温泉旅行",
       "volume": "",
       "last_updated": "1656000000",
       "groups": {
@@ -86,7 +86,7 @@
       }
     },
     "60": {
-      "title": "60",
+      "title": "突然の来客",
       "volume": "",
       "last_updated": "1656000000",
       "groups": {
@@ -94,7 +94,7 @@
       }
     },
     "61": {
-      "title": "61",
+      "title": "夢に頼まれて",
       "volume": "",
       "last_updated": "1656000000",
       "groups": {
@@ -102,7 +102,7 @@
       }
     },
     "62": {
-      "title": "62",
+      "title": "怖い夢の終わり",
       "volume": "",
       "last_updated": "1656000000",
       "groups": {
@@ -110,7 +110,7 @@
       }
     },
     "63": {
-      "title": "63",
+      "title": "満月の下で",
       "volume": "",
       "last_updated": "1656000000",
       "groups": {

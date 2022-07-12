@@ -124,13 +124,20 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/TQdpfue/"
       }
-    },
+    },https://imgur.com/a/n983IVO
     "65": {
       "title": "旅の終わりに",
       "volume": "",
       "last_updated": "1656000000",
       "groups": {
         "": "/proxy/api/imgur/chapter/fedegAQ/"
+      },
+    "66": {
+      "title": "女10人集まれば",
+      "volume": "",
+      "last_updated": "1656000000",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/n983IVO/"
       }
     }    
   }

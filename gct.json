@@ -247,7 +247,7 @@
     },
     "78": {
       "title": "キスの行方は",
-      "volume": "",
+      "volume": "9",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/TVAa3Cw/"
@@ -255,7 +255,7 @@
     },
     "79": {
       "title": "ファミリアキス裁判",
-      "volume": "",
+      "volume": "9",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/540NsoS/"
@@ -263,7 +263,7 @@
     },
     "80": {
       "title": "理想のシチュエーション",
-      "volume": "",
+      "volume": "9",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/cAmokd8/"
@@ -271,7 +271,7 @@
     },
     "81": {
       "title": "キスとスキと考えごと",
-      "volume": "",
+      "volume": "9",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/REUuIIe/"
@@ -279,7 +279,7 @@
     },
     "82": {
       "title": "大掃除！",
-      "volume": "",
+      "volume": "9",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/7vjE81r/"
@@ -287,7 +287,7 @@
     },
     "83": {
       "title": "大晦日！",
-      "volume": "",
+      "volume": "9",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/KJnq8nT/"
@@ -295,7 +295,7 @@
     },
     "84": {
       "title": "初詣！",
-      "volume": "",
+      "volume": "9",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/aPBC1IR/"
@@ -303,7 +303,7 @@
     },
     "85": {
       "title": "はじめてのお酒",
-      "volume": "",
+      "volume": "9",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/tMZUsQD/"
@@ -311,7 +311,7 @@
     },
     "86": {
       "title": "ライバル襲来",
-      "volume": "",
+      "volume": "9",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/k511sPg/"
@@ -319,7 +319,7 @@
     },
     "87": {
       "title": "一番の達人",
-      "volume": "",
+      "volume": "9",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/XKMeD35/"
@@ -355,6 +355,14 @@
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/2QGtxnd/"
+      }
+    },
+    "92": {
+      "title": "二人きりのファミリアで",
+      "volume": "",
+      "last_updated": "1656000000",
+      "groups": {
+      "": "/proxy/api/imgur/chapter/HNjGw5W/"
       }
     }
   }

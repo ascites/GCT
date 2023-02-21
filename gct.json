@@ -3,7 +3,7 @@
   "description": "A seaside romantic comedy with too many heroines!",
   "artist": "Seo Koji",
   "author": "Seo Koji",
-  "cover": "https://i.stack.imgur.com/LgGVN.jpg",
+  "cover": "https://i.stack.imgur.com/BIZuS.jpg",
   "chapters": {
     "50": {
       "title": "敵情視察",
@@ -379,6 +379,14 @@
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/QQSHZEN/"
+      }
+    },
+    "94": {
+      "title": "いつかのバレンタイン",
+      "volume": "",
+      "last_updated": "1656000000",
+      "groups": {
+      "": "/proxy/api/imgur/chapter/BXrky81/"
       }
     }
   }

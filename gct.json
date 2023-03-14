@@ -335,7 +335,7 @@
     },
     "88": {
       "title": "最後のピラフ",
-      "volume": "",
+      "volume": "10",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/7aHnKPW/"
@@ -343,7 +343,7 @@
     },
     "89": {
       "title": "旅立ちの日",
-      "volume": "",
+      "volume": "10",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/WIUb1R1/"
@@ -351,7 +351,7 @@
     },
     "90": {
       "title": "ファミリア新体制",
-      "volume": "",
+      "volume": "10",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/ekBbMYh/"
@@ -359,7 +359,7 @@
     },
     "91": {
       "title": "秋水(あみ)の違和感",
-      "volume": "",
+      "volume": "10",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/2QGtxnd/"
@@ -367,7 +367,7 @@
     },
     "92": {
       "title": "二人きりのファミリアで",
-      "volume": "",
+      "volume": "10",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/HNjGw5W/"
@@ -375,7 +375,7 @@
     },
     "93": {
       "title": "欲張りだから",
-      "volume": "",
+      "volume": "10",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/QQSHZEN/"
@@ -383,7 +383,7 @@
     },
     "94": {
       "title": "いつかのバレンタイン",
-      "volume": "",
+      "volume": "10",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/BXrky81/"
@@ -391,7 +391,7 @@
     },
     "95": {
       "title": "千代田食堂の危機！",
-      "volume": "",
+      "volume": "10",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/UHVJR1H/"
@@ -399,10 +399,18 @@
     },
     "96": {
       "title": "零vs.5人の刺客",
-      "volume": "",
+      "volume": "10",
       "last_updated": "1656000000",
       "groups": {
       "": "/proxy/api/imgur/chapter/c20H1cw/"
+      }
+    },
+    "97": {
+      "title": "役作りのために",
+      "volume": "10",
+      "last_updated": "1656000000",
+      "groups": {
+      "": "/proxy/api/imgur/chapter/q4tHkXB/"
       }
     }
   }

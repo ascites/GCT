@@ -122,6 +122,33 @@
                "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvOWZ3MmdzcVIvMjQuanBn"
             ]
       }
+    },
+    "3": {
+      "title": "プレオープン",
+      "volume": "1",
+      "last_updated": "1614697200",
+      "groups": {
+        "": [
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvRGZHOFNGMTgvMDEuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvQnZ5bnZ3NlQvMDIuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvcTdnNzRka0IvMDMuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvQ0xWZER0NEovMDQuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvQm5tdnJ2ZncvMDUuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvMHlrUVh3RncvMDYuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvSm5rNEhjRDkvMDcuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvOFBCY2JIS0cvMDguanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvZ2MzMllzUGgvMDkuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvV3ptTlhONzgvMTAuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvQlFzUXRGcVYvMTEuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2Mvd1RWeE5CTVQvMTIuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvSnp6cjVXSDMvMTMuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvQ0tXdzBCUEovMTQuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvZFZOcVdTR2IvMTUuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvTHNxbUdCVG4vMTYuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvbnIxeHFkSHcvMTcuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvOGtkVDhDaEIvMTguanBn"
+            ]
+      }
     }
   }
 }

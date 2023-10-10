@@ -3686,6 +3686,16 @@
                "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvUk10ektGd04vMTguanBn"
             ]
       }
+    },
+    "124": {
+      "title": "仮称",
+      "volume": "",
+      "last_updated": "1696950000",
+      "groups": {
+        "": [
+               "https://i.stack.imgur.com/G1BJg.jpg"
+            ]
+      }
     }
   }
 }

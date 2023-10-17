@@ -3249,7 +3249,7 @@
     },
     "108": {
       "title": "男女12人 宮古島旅行！",
-      "volume": "",
+      "volume": "12",
       "last_updated": "1686063600",
       "groups": {
         "": [
@@ -3282,7 +3282,7 @@
     },
     "109": {
       "title": "恋も旅行も計画的に",
-      "volume": "",
+      "volume": "12",
       "last_updated": "1686668400",
       "groups": {
         "": [
@@ -3309,7 +3309,7 @@
     },
     "110": {
       "title": "海辺の夜に咲く花に",
-      "volume": "",
+      "volume": "12",
       "last_updated": "1687273200",
       "groups": {
         "": [
@@ -3336,7 +3336,7 @@
     },
     "111": {
       "title": "真夜中の潜入者",
-      "volume": "",
+      "volume": "12",
       "last_updated": "1687878000",
       "groups": {
         "": [
@@ -3363,7 +3363,7 @@
     },
     "112": {
       "title": "ツアーガイド",
-      "volume": "",
+      "volume": "12",
       "last_updated": "1689087600",
       "groups": {
         "": [
@@ -3390,7 +3390,7 @@
     },
     "113": {
       "title": "私の大本命◎",
-      "volume": "",
+      "volume": "12",
       "last_updated": "1689692400",
       "groups": {
         "": [
@@ -3417,7 +3417,7 @@
     },
     "114": {
       "title": "零れる想い",
-      "volume": "",
+      "volume": "12",
       "last_updated": "1690297200",
       "groups": {
         "": [
@@ -3444,7 +3444,7 @@
     },
     "115": {
       "title": "告白のルール",
-      "volume": "",
+      "volume": "12",
       "last_updated": "1690902000",
       "groups": {
         "": [
@@ -3473,7 +3473,7 @@
     },
     "116": {
       "title": "名探偵・粕壁隼",
-      "volume": "",
+      "volume": "12",
       "last_updated": "1691506800",
       "groups": {
         "": [
@@ -3500,7 +3500,7 @@
     },
     "117": {
       "title": "夢か現（うつつ）か幻か",
-      "volume": "",
+      "volume": "12",
       "last_updated": "1692716400",
       "groups": {
         "": [
@@ -3522,6 +3522,24 @@
                "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvQlNHOVdEVDMvMTYuanBn",
                "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvMzhDTTNSMXYvMTcuanBn",
                "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvTllCcXA2RzcvMTguanBn"
+            ]
+      }
+    },
+    "117.5": {
+      "title": "女神の休息【オマケ】（１２）",
+      "volume": "12",
+      "last_updated": "1697468400",
+      "groups": {
+        "": [
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MveTE1elNaNjcvMDAuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvazlCSlhuTW4vMDEuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvWFZzVy00UFRHLzAyLmpwZw==",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvN0hiazZWa0IvMDMuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvVGZiVGdDV0YvMDQuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvR2NMcjBSU24vMDUuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvU21wa3JDNnMvMDYuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvS21yRnNqZjUvMDcuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvU21xYjhxNFkvMDguanBn"
             ]
       }
     },

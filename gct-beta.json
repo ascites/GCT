@@ -3998,6 +3998,16 @@
                "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvQlNTUXpzeXkvMjEuanBn"
             ]
       }
+    },
+    "134": {
+      "title": "My Standard",
+      "volume": "",
+      "last_updated": "1703602800",
+      "groups": {
+        "": [
+               "https://i.stack.imgur.com/G1BJg.jpg"
+            ]
+      }
     }
   }
 }

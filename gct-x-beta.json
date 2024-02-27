@@ -4231,6 +4231,33 @@
                "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2Mvdzk2RjFyakcvMjAuanBn"
             ]
       }
+    },
+    "142": {
+      "title": "本日の釣果",
+      "volume": "",
+      "last_updated": "1709046000",
+      "groups": {
+        "": [
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvQ2gzZ1RCQ3cvMDEuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvOE5oMUdIbjkvMDIuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvV3NUczFrQjMvMDMuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvMXlCc256U0svMDQuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MveTFnSGJYWmYvMDUuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvdFhtYmttWVovMDYuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvNUpUMUZHaEQvMDcuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvcWs3MDhkTUgvMDguanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvMHhTdkdueGovMDkuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvUFRralNEcjQvMTAuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvNWJxTVR0WE0vMTEuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvTXo2OFM4QmYvMTIuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvZFFQelNNdjEvMTMuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvcDI3TnpoNksvMTQuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvaEQ3a3JEazYvMTUuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2Mva25EMzJGZm4vMTYuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvMkMwTmpYZGMvMTcuanBn",
+               "https://services.f-ck.me/v1/image/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvY1dweUozWVMvMTguanBn"
+            ]
+      }
     }
   }
 }
